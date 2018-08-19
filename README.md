@@ -10,6 +10,8 @@
 ### ML
 - [ ] Naive Bayes
   - http://www.cs.columbia.edu/~mcollins/em.pdf
+- [ ] SVM
+- [ ] Regularization l1,l2, Dropout BatchNorm
 - [ ] CRF
 - [ ] Probability Theory
 - [ ] LSTM
