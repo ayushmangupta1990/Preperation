@@ -13,8 +13,10 @@
 - [ ] Probability Theory
 - [ ] LSTM
 - [ ] CNN
-- [ ] Attention
+- [ ] Attention 
+  - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - [ ] Transformers
+  - https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W3nRlxjhXjs
 - [ ] Loss Functions
 - [ ] Logistic Regression
 - [ ] Back Propogation
