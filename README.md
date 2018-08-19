@@ -9,6 +9,7 @@
 
 ### ML
 - [ ] Naive Bayes
+  - http://www.cs.columbia.edu/~mcollins/em.pdf
 - [ ] CRF
 - [ ] Probability Theory
 - [ ] LSTM
