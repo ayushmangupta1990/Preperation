@@ -9,7 +9,7 @@
 
 ### ML
   - https://www.youtube.com/watch?v=Kdwf5cci8hw&list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb&index=1
-- [ ] Naive Bayes
+- [x] Naive Bayes
   - http://www.cs.columbia.edu/~mcollins/em.pdf
   - https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4
 - [ ] SVM
@@ -20,6 +20,7 @@
 - [ ] CNN
 - [ ] Attention 
   - http://nlp.seas.harvard.edu/2018/04/03/attention.html
+  - https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/
 - [ ] Transformers
   - https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W3nRlxjhXjs
 - [ ] Loss Functions
