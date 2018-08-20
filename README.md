@@ -56,6 +56,7 @@
 
 ### Projects
 - [ ] GCE
+  -https://github.com/atpaino/deep-text-corrector
 - [ ] Seq2Seq
 - [ ] CRF-LSTM-CNN 
       End 2 End Sequence Labeling [Ma and Ho](https://arxiv.org/pdf/1603.01354.pdf)
