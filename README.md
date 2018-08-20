@@ -8,6 +8,7 @@
  
 
 ### ML
+  - https://www.youtube.com/watch?v=Kdwf5cci8hw&list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb&index=1
 - [ ] Naive Bayes
   - http://www.cs.columbia.edu/~mcollins/em.pdf
 - [ ] SVM
