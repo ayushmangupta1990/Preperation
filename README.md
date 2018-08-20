@@ -34,8 +34,11 @@
   - https://towardsdatascience.com/naive-bayes-in-machine-learning-f49cc8f831b4
 - [ ] SVM
 - [ ] Regularization l1,l2, Dropout BatchNorm
-- [ ] CRF
+
 - [ ] Probability Theory
+  - [ ] CRF
+  - [ ] HMM
+  - [ ] Viterbi Algorithims
 - [ ] LSTM
 - [ ] CNN
 - [ ] Attention 
