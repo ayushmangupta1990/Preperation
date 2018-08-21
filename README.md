@@ -51,7 +51,8 @@
 - [ ] Logistic Regression
 - [ ] Back Propogation
 - [ ] Seq 2 Seq
-
+- [ ] Non-Negative Matirx Fatoriztion
+  - https://blog.insightdatascience.com/explicit-matrix-factorization-als-sgd-and-all-that-jazz-b00e4d9b21ea
 
 
 
