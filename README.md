@@ -66,4 +66,4 @@
   - Intent Classifier
   - Question Answering
     - https://github.com/huggingface/pytorch-openai-transformer-lm
-  
+    - http://www.marekrei.com/blog/paper-summaries/
