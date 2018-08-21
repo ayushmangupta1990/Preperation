@@ -38,6 +38,7 @@
 - [ ] Probability Theory
   - [ ] CRF
   - [ ] HMM
+    - http://www.coli.uni-saarland.de/~thorsten/publications/Brants-ANLP00.pdf (POS Stat)
   - [ ] Viterbi Algorithims
 - [ ] LSTM
 - [ ] CNN
