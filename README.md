@@ -71,3 +71,4 @@
     - http://www.marekrei.com/blog/paper-summaries/
 - [ ] https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
 - [ ] http://blog.ethanrosenthal.com/page/3/
+- [ ] https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning/
