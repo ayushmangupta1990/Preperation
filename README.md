@@ -43,6 +43,7 @@
 - [ ] LSTM
 - [ ] CNN
 - [ ] Attention 
+  - [ ] https://jalammar.github.io/illustrated-transformer/
   - http://nlp.seas.harvard.edu/2018/04/03/attention.html
   - https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/
 - [ ] Transformers
